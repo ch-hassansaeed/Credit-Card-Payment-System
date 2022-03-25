@@ -4,9 +4,12 @@ A Credit Card Payment System - CCPS build with react, typescript, bootstrap, sas
 
 ## Demo video
 
+
 **Project Demo Video :-**
 
-**demo_video.mp4**
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fjGWULgM9z8/0.jpg)](https://youtu.be/fjGWULgM9z8) \
+or\
+https://youtu.be/fjGWULgM9z8
 
 #### Run:
 
